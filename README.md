@@ -26,7 +26,10 @@ In this Single Page Application for Temperature Conversion. It takes the tempera
  - npm install --save font-awesome
  - npm install react-geolocated --save
  
+### Live Preview 
+https://timely-flan-114f94.netlify.app/
 
+### NOTE : Please allow Geolocation Permission while using this.
  
  
  
