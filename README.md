@@ -25,6 +25,10 @@ In this Single Page Application for Temperature Conversion. It takes the tempera
  - npm install react-bootstrap bootstrap
  - npm install --save font-awesome
  - npm install react-geolocated --save
+
+### API Implementation 
+ - Here i also used third party API which will takes Latitude and Longitude as Input and Provide Weather Data as Resposne . From that data i used Temperature in Kelvin , Current Location and City , Status of Weather on the basis of Temperature.Below i add the link for reference :
+ https://openweathermap.org/api
  
 ### Live Preview 
 https://timely-flan-114f94.netlify.app/
