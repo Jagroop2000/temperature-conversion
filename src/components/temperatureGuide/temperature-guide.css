@@ -1,0 +1,32 @@
+.textHead{
+    font-size: 22px;
+    color: #04009A;
+}
+.textHeadDark {
+    font-size: 22px;
+    color: #C0FEFC;
+}
+
+.textHead:hover{
+    font-size: 22px;
+    color: #3EDBF0;
+}
+
+.detailCard{
+    height: 12vh;
+background: rgba(255, 255, 255, 0.08);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(0px);
+-webkit-backdrop-filter: blur(0px);
+border: 1px solid rgba(255, 255, 255, 0.36);
+}
+
+.imgStyle{
+    height: 80px;
+    width: 100px;
+}
+
+.textStyle{
+    font-size: 20px;
+}
