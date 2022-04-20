@@ -1,9 +1,9 @@
 # Temperature Conversion Web App
 
-In this Single Page Application for Temperature Conversion. It takes the temperature in Celcius as input, converts it to Farenheit,and vice-versa and displays the result as the ouput. 
+This project is a  Single Page Application for Temperature Conversion. It takes the temperature in Celcius as input, converts it to Farenheit,and vice-versa and displays the result as the ouput. 
 ### Below features are added in this Single Page Application :
-1) Dark-Light Mode Switcher using ContextAPI which make dark and light mode Global and one can use this to switch from Dark to Light Mode and vice-versa.
-2) Responsiveness is implemented using  Bootstrap , React-strap  . So due to the this Single Page Application can't distorted when we reduce the screen size manually using pointer.
+1) Dark-Light Mode Switcher using ContextAPI which make dark and light mode Globally and one can use this to switch from Dark to Light Mode and vice-versa.
+2) Responsiveness is implemented using  Bootstrap , React-strap  . So due to  this Single Page Application can't distorted when we reduce the screen size manually using pointer.
 3) One can choose Temperature Unit (Celcius and Farenhiet) and convert it into (Farenhiet and Celcius).
 4) A Small Section is added which provide some knowledge of temperature.
 5) A feature is added which take User's current location and convert and provide following result :
